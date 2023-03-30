@@ -147,6 +147,10 @@ theme-descrip {
 	align-items: center;
 }
 
+.readMore a{
+	color: white;
+}
+
 .topnav a {
 	color: #DBD9D7;
 	padding-top: 20px;
