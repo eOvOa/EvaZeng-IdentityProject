@@ -2,7 +2,7 @@ var swiper = new Swiper(".mySwiper", {
   slidesPerView: 1,
   centeredSlides: true,
   autoplay: {
-    delay: 4000,
+    delay: 3500,
     disableOnInteraction: false,
   },
   pagination: {
